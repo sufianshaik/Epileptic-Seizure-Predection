@@ -1,0 +1,7 @@
+#ignore the file literally named *.h5 extensions
+models/*.h5
+models/*.pkl
+*.h5
+*.pkl
+
+Dataset/CHB-MIT-Dataset.csv
